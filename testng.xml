@@ -1,0 +1,7 @@
+<suite name="Plugin Suite">
+    <test name="Plugin Test">
+        <classes>
+            <class name="com.MOFplugin.MOF_Plugin" />
+        </classes>
+    </test>
+</suite>

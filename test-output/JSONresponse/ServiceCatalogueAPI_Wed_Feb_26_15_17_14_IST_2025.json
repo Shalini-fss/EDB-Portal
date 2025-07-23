@@ -1,0 +1,4 @@
+
+SpecialCharacterEntityID_GetServiceInquiry Exception:
+ java.lang.NoClassDefFoundError: Could not initialize class com.MOF.constants.API_URL
+BlankEntityID_GetServiceInquiry Exception: java.lang.NoClassDefFoundError: Could not initialize class com.MOF.constants.API_URL
